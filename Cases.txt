@@ -1,0 +1,17 @@
+Case: TYPICAL
+ - I listen music
+ - then I identify song and I know the title
+ - Go to google and search lyrics song
+ - ....
+ - and link in new tab
+
+ Case: 
+
+- I listen music
+- then I identify song and I know the name
+- Search song title
+- List results
+  - click
+- Load Lyric
+
+
